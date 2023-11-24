@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newpro/static/css/main.70aaa92c.css",
+    "main.js": "/newpro/static/js/main.a72b5825.js",
+    "static/js/787.79947761.chunk.js": "/newpro/static/js/787.79947761.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/newpro/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/newpro/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/newpro/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/adham.jpg": "/newpro/static/media/adham.3938f24e1bbdbf8bf37d.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/newpro/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/newpro/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/bg.jpg": "/newpro/static/media/bg.a9ce03b372e35fc56d7e.jpg",
+    "index.html": "/newpro/index.html",
+    "main.70aaa92c.css.map": "/newpro/static/css/main.70aaa92c.css.map",
+    "main.a72b5825.js.map": "/newpro/static/js/main.a72b5825.js.map",
+    "787.79947761.chunk.js.map": "/newpro/static/js/787.79947761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70aaa92c.css",
+    "static/js/main.a72b5825.js"
+  ]
+}
